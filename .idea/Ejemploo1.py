@@ -1,6 +1,6 @@
 numero1 = 10
 numero2 = 5
-resultado = numero1 + numero2
+
 
 def sumarValores(num1, num2):
     return num1 * num2
