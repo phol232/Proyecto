@@ -1,10 +1,9 @@
-x = 10
-y = 5
-z = x + y
+numero1 = 10
+numero2 = 5
+resultado = x + y
 
-def sumarValores(a, b):
-    c = a * b
-    return c
+def sumarValores(num1, num2):
+    return num1 * num2
 
-resultado = sumarValores(x, z)
+resultado = sumarValores(numero1, numero2)
 print(resultado)
